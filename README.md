@@ -22,6 +22,7 @@ emotion agents as more engaging, expressive, and enjoyable, with happy agents re
 the highest ratings. While positive emotions enhanced participants’ perceptions of the agents,
 these did not translate into better learning outcomes, highlighting the complexity of emotional
 influence in educational settings.
+
 **Keywords.** Emotion Recognition, Pedagogical Agents, Education, Artificial Intelligent
 
 
