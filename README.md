@@ -1,5 +1,5 @@
 # Emotion Recognition of Pedagogical Agents in Education
-Yifei Chen, Hui Yan Yip
+Yifei Chen, Hui Yan Yip  
 November 2024
 
 ### Abstract
